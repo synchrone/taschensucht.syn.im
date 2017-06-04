@@ -3,104 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://taschensucht.syn.im/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://taschensucht.syn.im/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/cogwheel/</loc>
+    <loc>http://taschensucht.syn.im/portfolio/cogwheel/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/portfolio/cogwheel/"
+                href="http://taschensucht.syn.im/de/portfolio/cogwheel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/portfolio/cogwheel/"
+                href="http://taschensucht.syn.im/portfolio/cogwheel/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://taschensucht.syn.im/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                href="http://taschensucht.syn.im/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://taschensucht.syn.im/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/categories/"
+                href="http://taschensucht.syn.im/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://taschensucht.syn.im/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/portfolio/"
+                href="http://taschensucht.syn.im/de/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/portfolio/"
+                href="http://taschensucht.syn.im/portfolio/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://taschensucht.syn.im/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="http://taschensucht.syn.im/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://taschensucht.syn.im/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/tags/"
+                href="http://taschensucht.syn.im/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://taschensucht.syn.im/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://taschensucht.syn.im/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="http://taschensucht.syn.im/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/"
+                href="http://taschensucht.syn.im/"
                 />
   </url>
   

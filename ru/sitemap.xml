@@ -32,13 +32,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://taschensucht.syn.im/en/categories/"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://taschensucht.syn.im/de/categories/"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,13 +68,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://taschensucht.syn.im/en/tags/"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://taschensucht.syn.im/de/tags/"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

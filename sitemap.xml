@@ -9,14 +9,14 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://taschensucht.syn.im/en/sitemap.xml</loc>
+	   	<loc>http://taschensucht.syn.im/de/sitemap.xml</loc>
+		
+	   	<lastmod>2016-11-05T18:25:22+05:30</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://taschensucht.syn.im/de/sitemap.xml</loc>
-		
-	   	<lastmod>2016-11-05T18:25:22+05:30</lastmod>
+	   	<loc>http://taschensucht.syn.im/en/sitemap.xml</loc>
 		
 	</sitemap>
 	

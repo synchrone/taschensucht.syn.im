@@ -5,11 +5,41 @@
   <url>
     <loc>http://taschensucht.syn.im/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://taschensucht.syn.im/contact/"
+                />
   </url>
   
   <url>
     <loc>http://taschensucht.syn.im/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://taschensucht.syn.im/about/"
+                />
   </url>
   
   <url>
@@ -32,13 +62,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://taschensucht.syn.im/en/categories/"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://taschensucht.syn.im/de/categories/"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,13 +98,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://taschensucht.syn.im/en/tags/"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://taschensucht.syn.im/de/tags/"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,13 +119,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://taschensucht.syn.im/en/"
+                hreflang="de"
+                href="http://taschensucht.syn.im/de/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://taschensucht.syn.im/de/"
+                hreflang="en"
+                href="http://taschensucht.syn.im/en/"
                 />
     <xhtml:link
                 rel="alternate"
